@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @CandidoDev1
+- 👀 I’m interested in Web development and project management...
+- 🌱 I'm currently learning node js and ts and it's been a very innovative experience....
+- 💞️ I am looking to collaborate on open and socio-economically impactful projects for the development and environmental community. ...
+- 📫How to contact me:
+You can always choose my social networks or my email.
+Email:gideaof43@gmail.com
+Facebook: Gideão Ferreira
+Intagram: @GideaoFerreira ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Funny fact is that despite loving programming most of the time I'm always seeing a certain smoke with the codes that I create myself, lol.
+
+<!---
+CandidoDev1/CandidoDev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
